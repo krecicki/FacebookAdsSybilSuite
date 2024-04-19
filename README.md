@@ -1,6 +1,9 @@
 # 🌟 Introducing the Facebook Ads Sybil Suite! 🌟
 ### Automatically creates millions of ads on your pre-made pages of identities, known as Sybil nodes, to gain control of a network of minds for marketing & influence.
 
+Click below to see the how-to tutorial video.
+[![HOW TO VIDEO](https://img.youtube.com/vi/k3oI4jL26_k/0.jpg)](https://www.youtube.com/watch?v=k3oI4jL26_k)
+
 Get ready to revolutionize your online presence and skyrocket your influence with the power of cutting-edge artificial intelligence! 🚀
 
 🎉 Imagine creating MASSIVE impact effortlessly! With our suite, you'll unleash the full potential of automated ad creation, video generation, and captivating copy - all powered by the magic of A.I.! 💡

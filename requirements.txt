@@ -1,0 +1,16 @@
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1687884292427/work
+certifi==2023.5.7
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1686552404404/work
+imageio-ffmpeg @ file:///home/conda/feedstock_root/build_artifacts/imageio-ffmpeg_1673483481485/work
+moviepy @ file:///home/conda/feedstock_root/build_artifacts/moviepy_1665160419595/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1688887121808/work
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1688255923578/work
+proglog==0.1.9
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1677948868469/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1688005749963/work
